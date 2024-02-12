@@ -1,5 +1,5 @@
 import * as React from "react";
-import { useWindowSize } from "@uidotdev/usehooks";
+import { useWindowSize } from "usehooks-ts";
 import Confetti from "react-confetti";
 
 const ConfettiComponent = () => {
